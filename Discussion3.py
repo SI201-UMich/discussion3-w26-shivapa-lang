@@ -1,3 +1,5 @@
+#I have practiced pushing the code 4 times and learned to apply this on my Homework assignments. Thank you so much for giving me the opportunity to do this assignment the correct way and earn my points. I really appreciate this!
+
 import math
 
 class Rectangle():
